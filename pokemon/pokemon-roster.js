@@ -10,8 +10,7 @@ var myPokemonRoster = []
 // console.log("Pokemon: " + myPokemonRoster[0][0])
 
 
-myPokemonRoster= [["Bulbasaur", "Grass", 45, 50, 50, false], ["Charmander", "Fire", 45, 50, 50, false]
-
+var myPokemonRoster = [["Bulbasaur", "Grass", 45, 50, 50, false], ["Charmander", "Fire", 45, 50, 50, false], ["Squirtle", "Water", 45, 50, 50, false], ["Dragonite", "Dragon", 91, 95, 134, false], ["Charizard", "Fire", 78, 78, 84, false], ["Pikachu", "Electric", 35, 40, 55, false]]
 var x = myPokemonRoster;
 
 for (i=0; i< 6; i ++){
