@@ -1,0 +1,28 @@
+body{
+    background-color:tan;
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+}
+
+.SAF{
+    border:5px solid tan;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+.mainContent{
+    border:10px dotted red;
+}
+
+#top{
+    color: red;
+}
+img{
+    width: 35%
+}
+
+p{
+    width: 100%
+    
+}
