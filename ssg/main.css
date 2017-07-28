@@ -1,0 +1,23 @@
+body
+{
+    background-image: url("Assets/Cat v Dog.gif");
+    background-size: cover;
+}
+
+.jumbotron
+{
+    background: transparent;
+}
+
+/* .btn btn-lg btn-default */
+
+.h1
+{
+    text-align: center;
+    border: 10px solid white;
+}
+
+#
+{
+background-color: red;
+}

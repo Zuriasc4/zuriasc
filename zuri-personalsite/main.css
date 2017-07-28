@@ -1,0 +1,16 @@
+body{
+    background-image: url("nyc.jpg");
+    background-size: cover;
+}
+
+.jumbotron{
+    background: transparent;
+    color: white;
+    text-align: center;
+    
+}
+
+.img-circle{
+    width: 100px;
+    text-align: center;
+}
