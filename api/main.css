@@ -1,0 +1,18 @@
+.jumbotron{
+    background: transparent;
+    text-align: center;
+    
+}
+
+.row{
+    text-align: center;
+}
+
+.photo{
+    text-align: right;
+}
+
+body{
+    background-image: url("q.jpg");
+    background-size: cover;
+}
