@@ -1,0 +1,15 @@
+.jumbotron{
+    text-align: center;
+    opacity: 0.5;
+}
+
+
+body{
+    background-image: url("http://funnypictures3.fjcdn.com/funny_gifs/Rock+paper+scissors_eefd3f_5980783.gif");
+    background-size: cover;
+    
+}
+
+.outcome{
+    background: white;
+}

@@ -10,7 +10,15 @@ body{
     
 }
 
+#first{
+    font-size: 100px;
+}
+
 .img-circle{
     width: 100px;
     text-align: center;
+}
+
+#look{
+    font-size: 30px
 }
